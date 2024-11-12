@@ -1,3 +1,5 @@
+from HuffmanCode import *
+
 if __name__ == "__main__":
     # Input frequencies as per Table 9.1.2
     frequencies = {
