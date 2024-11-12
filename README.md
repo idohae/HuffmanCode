@@ -3,6 +3,7 @@ The input data needs to be dictionary type, character for key and frequency for 
 The method "get_code" in the class "HuffmanCode" returns the dictionary of Huffman codes.
 
 # How to
-Type the below commands into the command line.
+* Type the below commands into the command line.
 1. git clone https://github.com/idohae/HuffmanCode.git
 2. python main.py
+* You can modify the input dictionary in "main.py" to make Huffman codes for other input characters.
